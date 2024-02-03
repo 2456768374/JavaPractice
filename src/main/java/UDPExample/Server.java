@@ -1,8 +1,8 @@
-package TCP案例1;
+package UDPExample;
 
 /**
  * @Auther: Kritu
- * @Date: 2024/2/2 17:23
+ * @Date: 2024/2/3 16:47
  * @Description:
  */
 public class Server {
